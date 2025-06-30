@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(253, 252, 253);
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+.form-container {
+    background-color: white;
+    padding: 40px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+form h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+label {
+    display: block;
+label {
+    display: block; 
+    margin: 10px 0 5px;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+    font-size: 16px;
+    outline: none;
+}
+    background-image: url("love.png");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 18px;
+}
